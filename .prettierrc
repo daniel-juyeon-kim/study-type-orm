@@ -1,0 +1,6 @@
+{
+  "printWidth": 120,
+  "bracketSameLine": true,
+  "trailingComma": "all",
+  "plugins": ["prettier-plugin-organize-imports"]
+}
